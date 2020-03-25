@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: Portada.jpg
+image: Portada.JPG
 ---
 
 Hola, mi nombre es Michelle. Me he retado a hacer/probar algo diferente cada día de esta cuarentena por el CoVID-19. Entre lo que he decidido hacer está crear una página web. Aquí desplegaré algunos otros de los inventos que estaré comenzando y terminando durante estos días y, quizás, el futuro.
